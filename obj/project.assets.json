@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lvtien\\.nuget\\packages\\": {},
+    "C:\\Users\\dev2\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lvtien\\source\\repos\\ProjectTest\\ProjectTest.csproj",
+      "projectUniqueName": "C:\\Temp\\dev2\\ProjectTest\\ProjectTest.csproj",
       "projectName": "ProjectTest",
-      "projectPath": "C:\\Users\\lvtien\\source\\repos\\ProjectTest\\ProjectTest.csproj",
-      "packagesPath": "C:\\Users\\lvtien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lvtien\\source\\repos\\ProjectTest\\obj\\",
+      "projectPath": "C:\\Temp\\dev2\\ProjectTest\\ProjectTest.csproj",
+      "packagesPath": "C:\\Users\\dev2\\.nuget\\packages\\",
+      "outputPath": "C:\\Temp\\dev2\\ProjectTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lvtien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
